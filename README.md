@@ -1,8 +1,6 @@
 Product Management App — MERN Stack
 ===================================
 
-This README was written by the team to give you a friendly, human walkthrough of the project. If something feels unclear, it probably just needs a quick tweak—feel free to open an issue or PR so we can keep it helpful for the next person.
-
 We built a full-stack MERN application that lets users register, log in, and manage products using secure JWT-based authentication. The dashboard includes search, filtering, pagination, and a responsive Tailwind-powered UI with logout confirmation. Everything below is based on how we actually run the project day to day.
 
 ## Tech Stack
@@ -27,7 +25,7 @@ If you already cloned the repo or installed dependencies, just jump to whatever 
 
 ### 2. Clone and install
 git clone <repo-url>
-cd Mobio
+cd filename
 
 # install backend deps
 cd server
